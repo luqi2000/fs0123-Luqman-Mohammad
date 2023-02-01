@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Roboto&display=swap');
+
+main{
+    width: 400px;
+    margin: 0 auto;
+}
+img{
+    max-width: 100%
+}
+
+header{
+    text-align: center;
+}
+#striscia{
+    border-top: solid;
+    background-color: yellow;
+    height: 2rem;
+}
+#space{
+    margin-left: 1rem;
+}
+div h4{
+    margin-bottom: 0;
+}
+.spaceb{
+    margin-top: 0;
+}
+h4{
+    color: red;
+}
+h1{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+video{
+   max-width: 500px;
+}
