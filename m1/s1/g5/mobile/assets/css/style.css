@@ -1,0 +1,118 @@
+/* Your styles here */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Open+Sans&display=swap');
+
+body{
+    text-align: center;
+    color: #393d41;
+    font-size: 1.2rem;
+    font-family: 'Open Sans', sans-serif;
+}
+
+header{
+    height: auto;
+    text-align: center;
+    background-color: black;
+    padding: 30px;
+}
+
+#introduzione{
+    background-image: url(../images/banner.jpg);
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+#introduzione p{
+    padding: 20px;
+    margin-bottom: 40px;
+}
+
+#introduzione a{
+    color: white;
+    background-color: #f04c2f;
+    padding: 15px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+h1, h2, h3, h4{
+    color: #25a2c3;
+    font-family: 'Montserrat', sans-serif;
+}
+
+section h3{
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+.immagine{
+
+}
+
+img{
+    max-width: 100%;
+}
+
+section img{
+    border-radius: 50%;
+    margin-top: 25px;
+    margin-right: 40px;
+}
+
+#autore{
+    background-color: orangered;
+    color: white;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 3rem;
+}
+
+#autore h2{
+    color:white;
+    font-size: 40px;
+    padding-bottom: 20px
+}
+
+.autore2{
+    margin-top: 30px;
+    margin-bottom: 10px;
+    font-size: x-large;
+}
+
+span{
+    font-size: smaller;
+}
+
+.immagine{
+    border: 1px solid;  
+    margin: 20px;
+}
+
+h4{
+    margin: 20px;
+}
+
+div p{
+    padding-bottom: 30px;
+}
+
+footer{
+    background-color: #25a2c3 ;
+    color:white
+}
+
+footer h2{
+    color: white;
+    padding: 20px;
+}
+
+hr{
+    max-width: 20%;
+}
+
+footer a{
+    color: #c8e7f0;
+}
+
+address p{
+    margin: 15px;
+}
